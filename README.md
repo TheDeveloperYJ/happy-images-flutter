@@ -1,6 +1,6 @@
-# hello
+# app
 
-A new Flutter project.
+A new basic flutter images app.
 
 ## Getting Started
 
